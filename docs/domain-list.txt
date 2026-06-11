@@ -115748,6 +115748,7 @@ denizbank.cepsubenyukle.com
 denizbank.cf
 denizbank.com.admin-eu.cas.ms
 denizbank.com.mx
+denizbank.com.ph
 denizbank.credit
 denizbank.epizy.com
 denizbank.finance
@@ -125044,6 +125045,7 @@ direktodemeler.com
 direktsfirsat.com.tr
 direktsistemiade.de
 direktsube-akbank.com
+direktsube-akbank.ph
 direktsubeonline.com
 direktsubesi.com
 direktsubeyukle.com
@@ -201195,6 +201197,7 @@ hgskrallarkls.com
 hgskrmslodemelerr.com
 hgskuruhizmeti.com
 hgskurumodemelerx3d.com
+hgskurumsal.net
 hgskurumsallodemeleri3d.com
 hgskurumsalodeme3d.com
 hgskurumsalodeme3dptt.com
@@ -220580,6 +220583,7 @@ ingbank-giris-islemleri-com.tk
 ingbank-hosgeldin2019.vg
 ingbank-internet-subesi.com
 ingbank-internet.com
+ingbank-mobil.ph
 ingbank-mobilsube.ph
 ingbank-tr.com
 ingbank.com.mx
@@ -229725,6 +229729,7 @@ isube2019hediye.tk
 isube2019hediyeler.tk
 isube2019yaninda.tk
 isubeakbank.com
+isubeakbankdirekt.ph
 isubeanadolugiris.top
 isubebaharfirsat.com
 isubebenimle.ml
@@ -267961,6 +267966,7 @@ markosistem.org
 markossolomon.com
 markozane.sbs
 markpeterben.duckdns.org
+marksandspencer-login.ph
 marksandspencermall.top
 marksandspencershop.top
 marksandspencervip.top
@@ -290822,6 +290828,7 @@ ns9.microsoft-support.net
 nsa2wqszz1q.com
 nsaahhsnsad.net
 nsabeau.com.my
+nsacasbvsaasa.sbs
 nsadadwdqdqz.net
 nsadasdasn.net
 nsadasdsasn.net
@@ -300892,6 +300899,7 @@ onlineqnb.com
 onlineqnbbasvuru.com
 onlineqnbfiinans.com
 onlineqnbfinansbank.com
+onlineqnbfinansbank.com.ph
 onlineqnbfinansbanka.co.vu
 onlineqnbfinanscepsubesi.com
 onlineqnbmobilfarki.com
@@ -327518,6 +327526,7 @@ qnb-finansbankasicom.cf
 qnb-finansbankasicom.gq
 qnb-finansbankasicom.tk
 qnb-finansbankasionline.com
+qnb-finansbankasionline.ph
 qnb-finansbankasisube.com
 qnb-finansbankborcsorgulama.com
 qnb-finansbankborcsorguma.com
@@ -328077,6 +328086,7 @@ qnbfinansbank-islemlerii.com
 qnbfinansbank-isubem.com
 qnbfinansbank-kampanyabasvuru.com
 qnbfinansbank-kampanyakatilim.com
+qnbfinansbank-kampanyakatilim.ph
 qnbfinansbank-kampanyalar.com
 qnbfinansbank-kampanyasi.com
 qnbfinansbank-kampanyayakatil.com
@@ -346808,6 +346818,7 @@ sarisevgininkuvveti.xyz
 sarisevincindunyasi.xyz
 sarisin.sbs
 sarisinamaneyse.net
+sarisincitirikacirmamabi.click
 sarisinlar.cfd
 sarisisirnnsns.sa.com
 sariskakdiwyyd.com.tr
@@ -388458,6 +388469,7 @@ tr-akbaidekatilimsubat.com
 tr-akbank-avans.duckdns.org
 tr-akbank.com
 tr-akbank.duckdns.org
+tr-akbank.ph
 tr-akbnkiadehizmetin2023.com
 tr-akbnkiadehizmetin2023hizmet.net
 tr-akbnkiadehizmetin2023sbat.com
@@ -428326,6 +428338,7 @@ www-pttgov-tr.com
 www-pttmarket-com.cfd
 www-pyplsecureauthxk.duckdns.org
 www-qnb-duyuru-tr.com
+www-qnb-finansbank.ph
 www-qnb-flnansbank-hediyeli-anket.tk
 www-qnbffinans-tr.com
 www-qnbfinans-cekilis-anketi-com.tk
@@ -428353,6 +428366,7 @@ www-qnbfinansbank-anket-zamani-com.tk
 www-qnbfinansbank-ankete-katilim-com.tk
 www-qnbfinansbank-ankete-katilim.tk
 www-qnbfinansbank-burasi.tk
+www-qnbfinansbank-cekilis-firsat-com.ph
 www-qnbfinansbank-cekilis.com
 www-qnbfinansbank-cekilis.tk
 www-qnbfinansbank-cep-subem.tk
