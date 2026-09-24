@@ -56392,6 +56392,7 @@ avs.myftp.biz
 avs.otoko-cfilo.xyz
 avsa1.com
 avsarabakiralago.com
+avsarackirala.com
 avsarackirala.com.tr
 avsarackiralamahizmet.com.tr
 avsarackiralamahizmet.xyz
@@ -86577,6 +86578,7 @@ bootup.ddns.net
 boowamp.ddns.net
 boozbash.xyz
 bopaacous.ddns.net
+bopaje7148.store
 bopcofh.com
 bopetuto.ddns.net
 bopquvutgyyu.info
@@ -160337,6 +160339,7 @@ eylul-basvurusu-3000tl.com
 eylul-bitti-bitiyor-katalog.site
 eylul-bizbilmedikkimsebilemez.com
 eylul-burada.biz.tr
+eylul-burada.org.tr
 eylul-cimeriadeleri-tc.com
 eylul-cimeriadeleri-tc.net
 eylul-cimeriadeleri.com
@@ -360355,6 +360358,7 @@ sashgz.com
 sashisworld.com
 sashkandro-44352.portmap.host
 sashok.ddns.net
+sasirilmayacakgibidegil.sbs
 sasirtan-anlamlar-kardeslik-icinde-var.com
 saskin.cfd
 saskinsanademedimmi.com
@@ -426011,6 +426015,7 @@ vatandas-sosyaldestek-onlinebasvuru.com
 vatandas-toki-basvurusuyap-edevlet-com.tk
 vatandas-uyaceza-sorgu-euyap.com.trpgiris.com.tr
 vatandas-uyap-go.com
+vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
 vatandas-uyap-gov-tr.translate.goog
 vatandas-uyap-gov.com
 vatandas-uyap-gov.eu
