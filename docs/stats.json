@@ -1,8 +1,8 @@
 {
-  "last_update_utc": "2026-09-25T09:59:12.981269+00:00",
+  "last_update_utc": "2026-09-25T10:48:39.156394+00:00",
   "mode": "full",
   "counts": {
-    "domain": 471660,
+    "domain": 471659,
     "url": 6927,
     "ip": 15586,
     "ip6": 6,
@@ -12,44 +12,44 @@
   "state": {
     "domain": {
       "max_id": 1172402,
-      "last_full_sync": "2026-09-25T09:58:13.429753+00:00",
+      "last_full_sync": "2026-09-25T10:47:18.425447+00:00",
       "last_delta_sync": "2026-05-17T22:11:24.276260+00:00",
       "total_count": 471816
     },
     "url": {
       "max_id": 851416,
-      "last_full_sync": "2026-09-25T09:58:29.717638+00:00",
+      "last_full_sync": "2026-09-25T10:47:36.191290+00:00",
       "last_delta_sync": "2026-05-17T22:11:25.915892+00:00",
       "total_count": 6927
     },
     "ip": {
       "max_id": 1172406,
-      "last_full_sync": "2026-09-25T09:59:10.956646+00:00",
+      "last_full_sync": "2026-09-25T10:48:37.131268+00:00",
       "last_delta_sync": "2026-05-17T22:11:27.271738+00:00",
       "total_count": 15586
     },
     "ip6": {
       "max_id": 780782,
-      "last_full_sync": "2026-09-25T09:59:11.473659+00:00",
+      "last_full_sync": "2026-09-25T10:48:37.713882+00:00",
       "last_delta_sync": "2026-05-17T22:11:28.677553+00:00",
       "total_count": 6
     },
     "ip6net": {
       "max_id": 0,
-      "last_full_sync": "2026-09-25T09:59:11.944255+00:00",
+      "last_full_sync": "2026-09-25T10:48:38.273791+00:00",
       "last_delta_sync": "2026-05-17T22:11:29.708890+00:00",
       "total_count": 0
     }
   },
   "db": {
     "per_type_active": {
-      "domain": 471701,
+      "domain": 471700,
       "ip": 15586,
       "ip6": 6,
       "url": 6927
     },
-    "total_active": 494220,
-    "removed": 1,
+    "total_active": 494219,
+    "removed": 2,
     "by_connectiontype": {
       "AC": 8318,
       "BC": 14938,
@@ -58,10 +58,10 @@
       "MF": 5029,
       "MM": 206,
       "OT": 103477,
-      "PH": 347033
+      "PH": 347032
     },
     "by_category": {
-      "BP": 259987,
+      "BP": 259986,
       "CA": 1079,
       "MC": 53009,
       "MD": 67269,
