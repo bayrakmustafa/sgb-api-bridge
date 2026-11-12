@@ -226991,6 +226991,7 @@ ilan-ceptelefonu-elektronik-paramguvende-pro-s-sahibinden.com
 ilan-detay.com
 ilan-detay.online
 ilan-detay102.com
+ilan-detay106.com
 ilan-detaylari.com
 ilan-dolap-guvenli.com.tr
 ilan-dolapguvenliodeme.com
@@ -340777,6 +340778,7 @@ pttavm.ile-merkezi-odeme.com
 pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-onay-sepete.net.tr
 pttavm.ile-online-islemlerim.com.tr
+pttavm.ile-sepete-islemler.info.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepete-islemler.org.tr
 pttavm.ile-sepetim.com.tr
