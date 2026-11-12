@@ -1063,7 +1063,6 @@
 0ekypnaji.duckdns.org
 0emqti1q.duckdns.org
 0emvi12i.duckdns.org
-0eptmarket.com
 0etmiq41b.duckdns.org
 0evhp3rd.duckdns.org
 0evqz3.duckdns.org
@@ -33459,6 +33458,7 @@ adliyekontrol.com
 adliyekurum.net
 adliyekurum.org
 adliyekurum.ph
+adliyemaliye.org
 adliyemasak.org
 adliyesorgu.net
 adliyesorgu.org
@@ -135109,6 +135109,7 @@ driver.myftp.org
 driverbackup.gifts
 driverclone.gifts
 driverconnectsearch.info
+drivernetuk.info
 driveroftheworld.hopto.org
 drivers-microsoft-catalog.serveirc.com
 drivers-windows-update.serveirc.com
@@ -155333,6 +155334,7 @@ enparanin-ayricaliklardunyasi.tk
 enparaninayricaliklardunyasi.cf
 enparaninayricaliklardunyasi.ga
 enparaninayricaliklardunyasi.gq
+enparaninayricaliklardunyasi.ml
 enparaninayricaliklardunyasi.tk
 enparaninayricaliklardunyasi.ws
 enparanisanayi.com
@@ -159653,6 +159655,7 @@ euzlasmabildirim.org
 euzlasmabilgi.org
 euzlasmacbs.org
 euzlasmagib.org
+euzlasmahukuk.com
 euzlasmainfaz.com
 euzlasmainfaz.org
 euzlasmaportal.org
@@ -166145,6 +166148,7 @@ fehlayumsbukwsmie.org
 fehmiesenboga.tk
 fehutop1.website
 fehxldkfwpmj.xyz
+feidakuvivaw.com
 feiges.online
 feighminoritsjda.shop
 feints.cfd
@@ -166924,6 +166928,7 @@ fiablesecuraccount.ddns.net
 fiaks.duckdns.org
 fianceevisa101.com
 fiancevisacover.com
+fiaoiaegiieogjjed.ru
 fiasco222.top
 fiasco555.top
 fiasco666.top
@@ -200146,6 +200151,8 @@ halkbankmobilcepte.com
 halkbankmobilde.com
 halkbankmobilelsube.com
 halkbankmobilfirsat2019.ml
+halkbankmobilgiris-internetsubesi-com-tr.cf
+halkbankmobilgiris-internetsubesi-com-tr.gq
 halkbankmobilgiris-internetsubesi-com-tr.ml
 halkbankmobilgiris-internetsubesi-com-tr.tk
 halkbankmobilgiris.com
@@ -226975,6 +226982,7 @@ ilan-get-siparis.online
 ilan-get.com.tr
 ilan-get.online
 ilan-getonay.online
+ilan-getonayi.online
 ilan-getsecure.com
 ilan-getsiparis.online
 ilan-gget.com
@@ -398035,6 +398043,7 @@ tapurandevucum.net
 tapurandevudanisma.web.app
 tapurandevugncel.web.app
 tapurandevuislemlerinz.web.app
+tapurandevulari.web.app
 tapurandevularri.online
 tapurandevumerkezi.net
 tapurandevumparsel.blogspot.com
@@ -400042,7 +400051,6 @@ tcmbfasttransfer.com
 tcmbfasttransferi.com
 tcmbgov-tr.com
 tcmbgovtr.com
-tcmbk.com
 tcmbkolas.com
 tcmbkolastransfer.com
 tcmbkolastransferi.com
@@ -452558,7 +452566,6 @@ www-turkiyefinans-cekilis.com
 www-turkiyefinans-hediyeler.tk
 www-turkiyefinans-hediyeleri.tk
 www-turkiyefinans-internetsube.com
-www-turkiyefinans-internetsubem.co
 www-turkiyefinans-internetsubem.com
 www-turkiyefinans-internetsubem.net
 www-turkiyefinans-internetsubesi-com.cf
@@ -457635,7 +457642,6 @@ xn--edevletolanaklarmaidatlarm-95dj.net
 xn--edevletprotokoll-yzb.com
 xn--edevletsosyalyardm-u0c.online
 xn--edevlettimeikayitdeme-xec.com.tr
-xn--edevlettrkiyegiriskapisi-2sc.com
 xn--edevlettrkiyegiriskapisi-govtr-cfd.com
 xn--edevletttimeikayitdeme-cic.com.tr
 xn--edevletttimeikayittdeme-qlc.com.tr
