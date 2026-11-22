@@ -1679,6 +1679,7 @@
 1-0-1-firsatdiyari-geldi.com
 1-0-1-hftaninn-yldzlarii.com
 1-0-1-k-a-m-p-a-n-y-a.com.tr
+1-0-1-kampanya.duckdns.org
 1-0-1-kapidafirsats.com
 1-0-1kapida.store
 1-0-1onlineozel.com
@@ -57875,6 +57876,7 @@ avsotofly.com
 avsotokiralama.net
 avsotokoc.net
 avsotokockiralama.com
+avsotomobilkirala.com
 avsotomobilkiralama.com
 avsotomotivkirala.com
 avsotorentacar.com
@@ -68982,6 +68984,7 @@ bedavasorgupaneli.help
 bedavasorgupaneli.online
 bedavasorgupaneli.site
 bedavasorgupaneli.xyz
+bedavasorgupanelim.online
 bedavasorgupaneliniz.site
 bedavatabletdevletdestegi.com
 bedavatakipci.ml
@@ -288068,6 +288071,7 @@ mhrs-sistem.vercel.app
 mhrs-vatandas-randevu.click
 mhrs-web.pages.dev
 mhrs-yenidenoo.sbs
+mhrs.85-235-74-24.sslip.io
 mhrs.alllahnerdekiya.sbs
 mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
@@ -293265,6 +293269,7 @@ mobilservisler-88.sbs
 mobilservisler.com
 mobilservisler.online
 mobilservisler.xyz
+mobilservisleri-42.sbs
 mobilservisleri.online
 mobilservislerim.com
 mobilservisleriniz-1.sbs
@@ -341520,6 +341525,7 @@ ptt.mobilservisler-65.sbs
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-75.sbs
 ptt.mobilservisler-87.sbs
+ptt.mobilservisleri-42.sbs
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
 ptt.mobilservsim.com
