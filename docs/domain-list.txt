@@ -343073,6 +343073,7 @@ pttavm.sepetim-ozel.com
 pttavm.sepetim-satinal.com
 pttavm.sepetimde-ilanlar.pro
 pttavm.sepetimguvenli.com
+pttavm.sepetinize-ekleyin.com.tr
 pttavm.sepetislemim.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
