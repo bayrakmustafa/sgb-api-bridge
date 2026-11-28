@@ -2148,6 +2148,7 @@
 101-extra-mobil-alisveris-mobil.trendextracep.online
 101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online
 101-extra-mobil-bugune-ozel-indirimli-alisveris-bilgi-cep-tr.birsepet-tr.site
+101-extra-mobil-bugune-ozel-online-tr.alisversinde.top
 101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online
 101-extra-mobil-online-alisveris-ozel-shop-urun-bilgileri-tr.bilgim-tr.site
 101-extra-mobil-online-alisveris-ozel-shop-urun-bilgileri-tr.shops-bilgilendirme.online
@@ -20229,6 +20230,7 @@
 7806d4cf9366-endpoint.com
 780a.makeki0x1.com
 78112351235.cfd
+781411452414559.duckdns.org
 781976296.cloud
 78214752145185.duckdns.org
 78245245625325632565525.duckdns.org
@@ -20255,6 +20257,7 @@
 784564141.ccega6r0yph8.com
 78457456544323423.com
 78459745985.xyz
+7847468445484858814.duckdns.org
 784748932432.space
 7847874488744-2025.xyz
 7851254545411.sbs
@@ -312626,6 +312629,7 @@ odeme-5123.com
 odeme-aidatbilgisistemi-gov.com
 odeme-aktarim-ekrani.online
 odeme-alani.com
+odeme-birim-10.sbs
 odeme-bnc.net
 odeme-e-devlet.vatandashukuk.com.tr
 odeme-finansbank.ph
@@ -381850,6 +381854,7 @@ sistemonaylamaservisbirimin.com
 sistemonayli-event-cekilis.net
 sistemonlinehizmet.com
 sistempremiums.xyz
+sistemqnbiades.duckdns.org
 sistemrandevuborclanma.net
 sistemsberks.com
 sistemsel.online
